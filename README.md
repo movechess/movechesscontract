@@ -9,7 +9,9 @@ git clone https://github.com/movechess/movechesscontract.git
 
 git clone https://github.com/movechess/lila
   ```bash 
-./lila run
+./lila 
+
+run
 ```
 **MoveChess Auth Server**: 
 
