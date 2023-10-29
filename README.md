@@ -1,5 +1,7 @@
 # How to install Game Engine and Smart-contracts: 
 
+# localhost app simulate: http://127.0.0.1:8080/
+
 **User Match-making and Game Create**
 
 git clone https://github.com/movechess/movechesscontract.git
@@ -42,3 +44,6 @@ git clone https://github.com/movechess/movechess-auth-sv.git
   npm run build
   npm run serve
 ```
+
+# localhost app simulate: http://127.0.0.1:8080/
+
