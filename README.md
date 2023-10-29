@@ -1,15 +1,27 @@
-# movechesscontract: git clone https://github.com/movechess/movechesscontract.git
-matching game 2 user, or create new game
-update winner, take reward
+# How to install Game Engine and Smart-contracts: 
+
+**User Match-making and Game Create**
+
+git clone https://github.com/movechess/movechesscontract.git
 
 
-# [game-engine]: git clone https://github.com/movechess/lila
-  ./lila
-  run
-# [movechess-auth-sv]: git clone https://github.com/movechess/movechess-auth-sv.git
+**Game Engine**
+
+git clone https://github.com/movechess/lila
+  ```bash 
+./lila run
+```
+**MoveChess Auth Server**: 
+
+git clone https://github.com/movechess/movechess-auth-sv.git
+  ```bash 
   npm install
   npm start
+```
 
-# [chess-simulate]: git clone https://github.com/movechess/chess-simulate.git
+**Chess-Simulate**
+```bash 
+  git clone https://github.com/movechess/chess-simulate.git
   npm run build
   npm run serve
+```
