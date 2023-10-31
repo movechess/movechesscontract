@@ -1,6 +1,9 @@
 # How to install Game Engine and Smart-contracts: 
 
-# localhost app simulate: http://127.0.0.1:8080/
+**Localhost App Simulation**
+```bash
+http://127.0.0.1:8080/
+```
 
 **User Match-making and Game Create**
 
